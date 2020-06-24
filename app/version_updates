@@ -1,0 +1,16 @@
+Project created by: Jessica Kuo
+
+Version 1: June 9, 2020
+-First build
+-Interactive single screen app
+-Takes decimal input and outputs binary equivalent when 'Calculate!' button is pressed
+-Code for this version has since been deleted
+
+Version 2: June 10, 2020
+-Second build
+-Implemented hexadecimal conversion in addition to binary
+-Intents used to display either binary or hex conversion of decimal input
+
+Version 3: June 17, 2020
+-Updated font sizes
+-Moved this file out of layouts
